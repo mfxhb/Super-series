@@ -1,7 +1,7 @@
 <!--
  * @Author: mfxhb
  * @Date: 2022-11-23 11:55:47
- * @LastEditTime: 2022-11-24 08:08:42
+ * @LastEditTime: 2022-11-28 15:07:49
  * @Description: 简陋的导航
 -->
 <template>
@@ -51,8 +51,8 @@
   </nav>
 </template>
 
-<script name="XhbSimpleMainnav" setup lang="ts">
-import { defineProps, ref, defineEmits } from "vue";
+<script setup lang="ts">
+import { ref, defineEmits } from "vue";
 // qk props属性
 interface NavItem {
   label: string;

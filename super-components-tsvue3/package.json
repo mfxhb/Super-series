@@ -1,8 +1,8 @@
 {
-  "name": "super-series",
-  "version": "1.0.2",
-  "description": "个人常用的 js,ts,vue 插件组件等一些封装",
-  "main": "index.js",
+  "name": "super-components-tsvue3",
+  "version": "1.0.0",
+  "description": "超级系列,tsvue3版组件封装",
+  "main": "index.ts",
   "directories": {
     "lib": "lib"
   },
